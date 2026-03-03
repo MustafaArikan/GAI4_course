@@ -1,6 +1,6 @@
 # Unit 0: Binary Image Classification
 
-This unit demonstrates a transfer learning pipeline using **EfficientNet-B0** to classify fruit variants from the Fruits-360 dataset.
+This unit demonstrates a training pipeline using **EfficientNet-B0** to classify fruits from the Fruits-360 dataset.
 
 ## Project Structure
 
