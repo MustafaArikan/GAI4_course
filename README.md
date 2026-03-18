@@ -5,14 +5,21 @@
 ### 1. Clone the repository
 
 ```bash
+git clone https://github.com/MustafaArikan/GAI4_course.git
+cd GAI4_course
+```
+
+For Unit_0 only
+```bash
 git clone --recurse-submodules https://github.com/MustafaArikan/GAI4_course.git
 cd GAI4_course
 ```
 
-If you already cloned without `--recurse-submodules`:
+If you already cloned:
 
 ```bash
-git submodule update --init --recursive
+cd GAI4_course
+git pull
 ```
 
 ### 2. Install dependencies
