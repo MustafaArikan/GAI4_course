@@ -1,12 +1,14 @@
 # Unit 3: Denoising Autoencoder & Anomaly Detection
 
-Train a convolutional denoising autoencoder on FIDS30, then use reconstruction error for anomaly detection against satellite imagery.
+PyTorch port of the Keras [autoencoder tutorial](https://keras.io/examples/vision/autoencoder/).
+Train a convolutional denoising autoencoder on MNIST, then use reconstruction error to detect
+Fashion-MNIST images as anomalies.
 
 ## Notebooks
 
-* **`00_PrepData.ipynb`**: Downloads FIDS30 and UC Merced, prepares train/val/test splits.
-* **`01_DenoisingAutoencoder.ipynb`**: Trains a Conv autoencoder to denoise fruit images (128×128).
-* **`02_AnomalyDetection.ipynb`**: Uses reconstruction error to detect satellite images as anomalies. ROC/AUC evaluation.
+* **`00_PrepData.ipynb`**: Downloads MNIST + Fashion-MNIST via torchvision, shows samples.
+* **`01_DenoisingAutoencoder.ipynb`**: Trains a Conv autoencoder — first reconstruction, then denoising.
+* **`02_AnomalyDetection.ipynb`**: Uses reconstruction error to flag Fashion-MNIST as anomalies.
 
 ## Usage
 
