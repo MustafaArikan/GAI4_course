@@ -1,4 +1,4 @@
-# Homework 4: Worm Segmentation on BBBC010 (20 pts)
+# Homework 4: Segmentation on BBBC010
 
 Inverse of HW 3: train a **U-Net (EfficientNet-B0 encoder)** with
 [`segmentation_models_pytorch`](https://github.com/qubvel-org/segmentation_models.pytorch)
@@ -6,9 +6,9 @@ to predict the foreground mask from a brightfield image.
 
 ## Notebooks
 
-* **`00_PrepData.ipynb`** (6 pts, Ex 1) — Download BBBC010, pair brightfield with mask, 80/20 split, save for segmentation
-* **`01_TrainModel.ipynb`** (4 pts, Ex 2) — U-Net (EfficientNet-B0), BCE + Dice loss, 30 epochs, save best by val Dice
-* **`02_Evaluation.ipynb`** (4 + 6 pts, Ex 3 + Ex 4) — Dice/IoU on test set + best/worst grid; Gaussian-noise robustness sweep + discussion
+* **`00_PrepData.ipynb`** Download BBBC010, pair brightfield with mask, 80/20 split, save for segmentation
+* **`01_TrainModel.ipynb`** U-Net (EfficientNet-B0), BCE + Dice loss, 30 epochs, save best by val Dice
+* **`02_Evaluation.ipynb`** Dice/IoU on test set + best/worst grid; Gaussian-noise robustness + discussion
 
 ## Deliverables
 
