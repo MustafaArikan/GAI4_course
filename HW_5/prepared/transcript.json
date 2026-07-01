@@ -1,0 +1,64 @@
+{
+  "video_path": "/home/azureuser/Projects/GAI4_course/HW_5/prepared/Leonardo_da_Vinci.mp4",
+  "model": "openai/whisper-large-v3",
+  "language": "german",
+  "duration": 100.124,
+  "text": "Das italienische Universal-Genie Leonardo da Vinci hat nicht nur die Mona Lisa und andere schöne Bilder gemalt, er war auch ein genialer Ingenieur. Viele Skizzen und Beschreibungen seiner Erfindungen sind bis heute erhalten. Zahnräder spielten bei seinen Erfindungen eine große Rolle. Das Zahnrad an sich existierte bereits, aber da Vinci entwickelte daraus zahlreiche Maschinen. Zum Beispiel das Kettenradgetriebe, das wir heute in jedem Fahrrad finden. Oder einen Schwerlastheber. Etwas abgewandelt entspricht das dem heutigen Wagenheber. Viele Waffen entwickelte er im Auftrag seiner Arbeitgeber. Zum Beispiel dieses Orgelgeschütz. Quasi das erste Maschinengewehr. Und sogar einen Panzer, der sich allerdings wegen eines Konstruktionsfehlers nicht vorwärts bewegen konnte. Untertitelung des ZDF für funk, 2017 Quasi das erste Maschinengewehr. Und sogar einen Panzer, der sich allerdings wegen eines Konstruktionsfehlers nicht vorwärts bewegen konnte. Da Vinci gilt außerdem als Vater der Bionik. Für die Zeichnungen seiner Fluggeräte beobachtete er, wie Vögel ihre Flügel bewegen. Danach entwarf er ein Fluggerät mit Flügeln, die der Mensch aus eigener Kraft bewegen soll. Einen Ornithopter. Der blieb aber reine phantasie kein mensch wäre stark genug um damit abzuheben Mit der luftschraube sollten sich vier personen senkrecht in die luft drehen und fliegen ein vorläufer des hubschraubers doch auch dieses gerät war zu schwer es gab noch keine leichten materialien wie kunststoff oder aluminiumium. Den Traum vom Fliegen gab da Vinci nicht auf. Sein Entwurf eines Fallschirms. Ein Erfolg, wenngleich erst 500 Jahre später. Der Brite Adrian Nicholas segelte damit im Jahr 2000 durch die Lüfte.",
+  "segments": [
+    {
+      "id": 0,
+      "start": 1.0,
+      "end": 27.34,
+      "text": "Das italienische Universal-Genie Leonardo da Vinci hat nicht nur die Mona Lisa und andere schöne Bilder gemalt, er war auch ein genialer Ingenieur. Viele Skizzen und Beschreibungen seiner Erfindungen sind bis heute erhalten. Zahnräder spielten bei seinen Erfindungen eine große Rolle. Das Zahnrad an sich existierte bereits, aber da Vinci entwickelte daraus zahlreiche Maschinen. Zum Beispiel das Kettenradgetriebe, das wir heute in jedem Fahrrad finden."
+    },
+    {
+      "id": 1,
+      "start": 28.22,
+      "end": 33.22,
+      "text": "Oder einen Schwerlastheber. Etwas abgewandelt entspricht das dem heutigen Wagenheber."
+    },
+    {
+      "id": 2,
+      "start": 34.84,
+      "end": 37.5,
+      "text": "Viele Waffen entwickelte er im Auftrag seiner Arbeitgeber."
+    },
+    {
+      "id": 3,
+      "start": 38.02,
+      "end": 42.12,
+      "text": "Zum Beispiel dieses Orgelgeschütz. Quasi das erste Maschinengewehr."
+    },
+    {
+      "id": 4,
+      "start": 43.46,
+      "end": 48.88,
+      "text": "Und sogar einen Panzer, der sich allerdings wegen eines Konstruktionsfehlers nicht vorwärts bewegen konnte."
+    },
+    {
+      "id": 5,
+      "start": 49.46,
+      "end": 48.88,
+      "text": ""
+    },
+    {
+      "id": 6,
+      "start": 85.46,
+      "end": 87.54,
+      "text": "Untertitelung des ZDF für funk, 2017 Quasi das erste Maschinengewehr. Und sogar einen Panzer, der sich allerdings wegen eines Konstruktionsfehlers nicht vorwärts bewegen konnte. Da Vinci gilt außerdem als Vater der Bionik. Für die Zeichnungen seiner Fluggeräte beobachtete er, wie Vögel ihre Flügel bewegen. Danach entwarf er ein Fluggerät mit Flügeln, die der Mensch aus eigener Kraft bewegen soll. Einen Ornithopter. Der blieb aber reine phantasie kein mensch wäre stark genug um damit abzuheben Mit der luftschraube sollten sich vier personen senkrecht in die luft drehen und fliegen ein vorläufer des hubschraubers doch auch dieses gerät war zu schwer es gab noch keine leichten materialien wie kunststoff oder aluminiumium. Den Traum vom Fliegen gab da Vinci nicht auf."
+    },
+    {
+      "id": 7,
+      "start": 88.54,
+      "end": 93.36,
+      "text": "Sein Entwurf eines Fallschirms. Ein Erfolg, wenngleich erst 500 Jahre später."
+    },
+    {
+      "id": 8,
+      "start": 94.08,
+      "end": 97.98,
+      "text": "Der Brite Adrian Nicholas segelte damit im Jahr 2000 durch die Lüfte."
+    }
+  ],
+  "generated_at": "2026-06-27T09:29:06.000771+00:00"
+}

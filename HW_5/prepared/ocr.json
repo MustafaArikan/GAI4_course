@@ -1,0 +1,526 @@
+{
+  "video_path": "/home/azureuser/Projects/GAI4_course/HW_5/prepared/Leonardo_da_Vinci.mp4",
+  "model": "Qwen/Qwen2.5-VL-7B-Instruct",
+  "fps": 1.0,
+  "frame_count": 100,
+  "text": "Die Erfindungen von Da Vinci\nWDR\nin 100 Sekunden\n* 1452\n1519\n† 1519\nMONA LISA\n+ 1519\n1452\nFLIEGEN\nBIONIK\nORNITHOPTER\nAl\nAluminum\n26,98\n1,6\n2,7\nAutorin Lena Paul | Animation Claudio Como\nProduzent Bilderfest GmbH | Redaktion Birgit Keller-Reddemann\n© WDR 2021\n2000",
+  "unique_text_blocks": [
+    "Die Erfindungen von Da Vinci",
+    "WDR\nDie Erfindungen von Da Vinci\nin 100 Sekunden",
+    "WDR\n* 1452\n1519\nDie Erfindungen von Da Vinci\nin 100 Sekunden",
+    "WDR\n* 1452\n† 1519",
+    "WDR\nMONA LISA\n* 1452\n+ 1519",
+    "WDR\nMONA LISA\n1452\n1519",
+    "WDR\nMONA LISA\n* 1452\n† 1519",
+    "WDR",
+    "FLIEGEN",
+    "WDR\nFLIEGEN\nBIONIK",
+    "WDR\nORNITHOPTER",
+    "WDR\nAl\nAluminum\n26,98\n1,6\n2,7",
+    "WDR\nAutorin Lena Paul | Animation Claudio Como\nProduzent Bilderfest GmbH | Redaktion Birgit Keller-Reddemann\n© WDR 2021",
+    "WDR\n2000\nAutorin Lena Paul | Animation Claudio Como\nProduzent Bilderfest GmbH | Redaktion Birgit Keller-Reddemann\n© WDR 2021"
+  ],
+  "frames": [
+    {
+      "frame_number": 1,
+      "timestamp": 0.0,
+      "text": "Die Erfindungen von Da Vinci"
+    },
+    {
+      "frame_number": 2,
+      "timestamp": 1.0,
+      "text": "WDR\nDie Erfindungen von Da Vinci\nin 100 Sekunden"
+    },
+    {
+      "frame_number": 3,
+      "timestamp": 2.0,
+      "text": "WDR\nDie Erfindungen von Da Vinci\nin 100 Sekunden"
+    },
+    {
+      "frame_number": 4,
+      "timestamp": 3.0,
+      "text": "WDR\n* 1452\n1519\nDie Erfindungen von Da Vinci\nin 100 Sekunden"
+    },
+    {
+      "frame_number": 5,
+      "timestamp": 4.0,
+      "text": "WDR\n* 1452\n† 1519"
+    },
+    {
+      "frame_number": 6,
+      "timestamp": 5.0,
+      "text": "WDR\nMONA LISA\n* 1452\n+ 1519"
+    },
+    {
+      "frame_number": 7,
+      "timestamp": 6.0,
+      "text": "WDR\nMONA LISA\n1452\n1519"
+    },
+    {
+      "frame_number": 8,
+      "timestamp": 7.0,
+      "text": "WDR\nMONA LISA\n* 1452\n† 1519"
+    },
+    {
+      "frame_number": 9,
+      "timestamp": 8.0,
+      "text": "WDR\nMONA LISA\n* 1452\n+ 1519"
+    },
+    {
+      "frame_number": 10,
+      "timestamp": 9.0,
+      "text": "WDR"
+    },
+    {
+      "frame_number": 11,
+      "timestamp": 10.0,
+      "text": "WDR"
+    },
+    {
+      "frame_number": 12,
+      "timestamp": 11.0,
+      "text": "WDR"
+    },
+    {
+      "frame_number": 13,
+      "timestamp": 12.0,
+      "text": "WDR"
+    },
+    {
+      "frame_number": 14,
+      "timestamp": 13.0,
+      "text": "WDR"
+    },
+    {
+      "frame_number": 15,
+      "timestamp": 14.0,
+      "text": "WDR"
+    },
+    {
+      "frame_number": 16,
+      "timestamp": 15.0,
+      "text": "WDR"
+    },
+    {
+      "frame_number": 17,
+      "timestamp": 16.0,
+      "text": "WDR"
+    },
+    {
+      "frame_number": 18,
+      "timestamp": 17.0,
+      "text": "WDR"
+    },
+    {
+      "frame_number": 19,
+      "timestamp": 18.0,
+      "text": "WDR"
+    },
+    {
+      "frame_number": 20,
+      "timestamp": 19.0,
+      "text": "WDR"
+    },
+    {
+      "frame_number": 21,
+      "timestamp": 20.0,
+      "text": "WDR"
+    },
+    {
+      "frame_number": 22,
+      "timestamp": 21.0,
+      "text": "WDR"
+    },
+    {
+      "frame_number": 23,
+      "timestamp": 22.0,
+      "text": "WDR"
+    },
+    {
+      "frame_number": 24,
+      "timestamp": 23.0,
+      "text": "WDR"
+    },
+    {
+      "frame_number": 25,
+      "timestamp": 24.0,
+      "text": "WDR"
+    },
+    {
+      "frame_number": 26,
+      "timestamp": 25.0,
+      "text": "WDR"
+    },
+    {
+      "frame_number": 27,
+      "timestamp": 26.0,
+      "text": "WDR"
+    },
+    {
+      "frame_number": 28,
+      "timestamp": 27.0,
+      "text": "WDR"
+    },
+    {
+      "frame_number": 29,
+      "timestamp": 28.0,
+      "text": "WDR"
+    },
+    {
+      "frame_number": 30,
+      "timestamp": 29.0,
+      "text": "WDR"
+    },
+    {
+      "frame_number": 31,
+      "timestamp": 30.0,
+      "text": "WDR"
+    },
+    {
+      "frame_number": 32,
+      "timestamp": 31.0,
+      "text": "WDR"
+    },
+    {
+      "frame_number": 33,
+      "timestamp": 32.0,
+      "text": "WDR"
+    },
+    {
+      "frame_number": 34,
+      "timestamp": 33.0,
+      "text": "WDR"
+    },
+    {
+      "frame_number": 35,
+      "timestamp": 34.0,
+      "text": "WDR"
+    },
+    {
+      "frame_number": 36,
+      "timestamp": 35.0,
+      "text": "WDR"
+    },
+    {
+      "frame_number": 37,
+      "timestamp": 36.0,
+      "text": "WDR"
+    },
+    {
+      "frame_number": 38,
+      "timestamp": 37.0,
+      "text": "WDR"
+    },
+    {
+      "frame_number": 39,
+      "timestamp": 38.0,
+      "text": "WDR"
+    },
+    {
+      "frame_number": 40,
+      "timestamp": 39.0,
+      "text": "WDR"
+    },
+    {
+      "frame_number": 41,
+      "timestamp": 40.0,
+      "text": "WDR"
+    },
+    {
+      "frame_number": 42,
+      "timestamp": 41.0,
+      "text": "WDR"
+    },
+    {
+      "frame_number": 43,
+      "timestamp": 42.0,
+      "text": "WDR"
+    },
+    {
+      "frame_number": 44,
+      "timestamp": 43.0,
+      "text": "WDR"
+    },
+    {
+      "frame_number": 45,
+      "timestamp": 44.0,
+      "text": ""
+    },
+    {
+      "frame_number": 46,
+      "timestamp": 45.0,
+      "text": "WDR"
+    },
+    {
+      "frame_number": 47,
+      "timestamp": 46.0,
+      "text": "WDR"
+    },
+    {
+      "frame_number": 48,
+      "timestamp": 47.0,
+      "text": "WDR"
+    },
+    {
+      "frame_number": 49,
+      "timestamp": 48.0,
+      "text": "WDR"
+    },
+    {
+      "frame_number": 50,
+      "timestamp": 49.0,
+      "text": "WDR"
+    },
+    {
+      "frame_number": 51,
+      "timestamp": 50.0,
+      "text": "WDR"
+    },
+    {
+      "frame_number": 52,
+      "timestamp": 51.0,
+      "text": "FLIEGEN"
+    },
+    {
+      "frame_number": 53,
+      "timestamp": 52.0,
+      "text": "WDR\nFLIEGEN\nBIONIK"
+    },
+    {
+      "frame_number": 54,
+      "timestamp": 53.0,
+      "text": "WDR\nFLIEGEN\nBIONIK"
+    },
+    {
+      "frame_number": 55,
+      "timestamp": 54.0,
+      "text": "WDR\nFLIEGEN\nBIONIK"
+    },
+    {
+      "frame_number": 56,
+      "timestamp": 55.0,
+      "text": "WDR"
+    },
+    {
+      "frame_number": 57,
+      "timestamp": 56.0,
+      "text": "WDR"
+    },
+    {
+      "frame_number": 58,
+      "timestamp": 57.0,
+      "text": "WDR"
+    },
+    {
+      "frame_number": 59,
+      "timestamp": 58.0,
+      "text": "WDR"
+    },
+    {
+      "frame_number": 60,
+      "timestamp": 59.0,
+      "text": "WDR"
+    },
+    {
+      "frame_number": 61,
+      "timestamp": 60.0,
+      "text": "WDR"
+    },
+    {
+      "frame_number": 62,
+      "timestamp": 61.0,
+      "text": "WDR"
+    },
+    {
+      "frame_number": 63,
+      "timestamp": 62.0,
+      "text": "WDR"
+    },
+    {
+      "frame_number": 64,
+      "timestamp": 63.0,
+      "text": "WDR"
+    },
+    {
+      "frame_number": 65,
+      "timestamp": 64.0,
+      "text": "WDR\nORNITHOPTER"
+    },
+    {
+      "frame_number": 66,
+      "timestamp": 65.0,
+      "text": "WDR\nORNITHOPTER"
+    },
+    {
+      "frame_number": 67,
+      "timestamp": 66.0,
+      "text": "WDR"
+    },
+    {
+      "frame_number": 68,
+      "timestamp": 67.0,
+      "text": "WDR"
+    },
+    {
+      "frame_number": 69,
+      "timestamp": 68.0,
+      "text": "WDR"
+    },
+    {
+      "frame_number": 70,
+      "timestamp": 69.0,
+      "text": "WDR"
+    },
+    {
+      "frame_number": 71,
+      "timestamp": 70.0,
+      "text": "WDR"
+    },
+    {
+      "frame_number": 72,
+      "timestamp": 71.0,
+      "text": "WDR"
+    },
+    {
+      "frame_number": 73,
+      "timestamp": 72.0,
+      "text": "WDR"
+    },
+    {
+      "frame_number": 74,
+      "timestamp": 73.0,
+      "text": "WDR"
+    },
+    {
+      "frame_number": 75,
+      "timestamp": 74.0,
+      "text": "WDR"
+    },
+    {
+      "frame_number": 76,
+      "timestamp": 75.0,
+      "text": "WDR"
+    },
+    {
+      "frame_number": 77,
+      "timestamp": 76.0,
+      "text": "WDR"
+    },
+    {
+      "frame_number": 78,
+      "timestamp": 77.0,
+      "text": "WDR"
+    },
+    {
+      "frame_number": 79,
+      "timestamp": 78.0,
+      "text": "WDR"
+    },
+    {
+      "frame_number": 80,
+      "timestamp": 79.0,
+      "text": "WDR"
+    },
+    {
+      "frame_number": 81,
+      "timestamp": 80.0,
+      "text": "WDR"
+    },
+    {
+      "frame_number": 82,
+      "timestamp": 81.0,
+      "text": "WDR"
+    },
+    {
+      "frame_number": 83,
+      "timestamp": 82.0,
+      "text": "WDR"
+    },
+    {
+      "frame_number": 84,
+      "timestamp": 83.0,
+      "text": "WDR"
+    },
+    {
+      "frame_number": 85,
+      "timestamp": 84.0,
+      "text": "WDR\nAl\nAluminum\n26,98\n1,6\n2,7"
+    },
+    {
+      "frame_number": 86,
+      "timestamp": 85.0,
+      "text": "WDR"
+    },
+    {
+      "frame_number": 87,
+      "timestamp": 86.0,
+      "text": "WDR"
+    },
+    {
+      "frame_number": 88,
+      "timestamp": 87.0,
+      "text": "WDR"
+    },
+    {
+      "frame_number": 89,
+      "timestamp": 88.0,
+      "text": "WDR"
+    },
+    {
+      "frame_number": 90,
+      "timestamp": 89.0,
+      "text": "WDR"
+    },
+    {
+      "frame_number": 91,
+      "timestamp": 90.0,
+      "text": "WDR\nAutorin Lena Paul | Animation Claudio Como\nProduzent Bilderfest GmbH | Redaktion Birgit Keller-Reddemann\n© WDR 2021"
+    },
+    {
+      "frame_number": 92,
+      "timestamp": 91.0,
+      "text": "WDR\nAutorin Lena Paul | Animation Claudio Como\nProduzent Bilderfest GmbH | Redaktion Birgit Keller-Reddemann\n© WDR 2021"
+    },
+    {
+      "frame_number": 93,
+      "timestamp": 92.0,
+      "text": "WDR\nAutorin Lena Paul | Animation Claudio Como\nProduzent Bilderfest GmbH | Redaktion Birgit Keller-Reddemann\n© WDR 2021"
+    },
+    {
+      "frame_number": 94,
+      "timestamp": 93.0,
+      "text": "WDR\nAutorin Lena Paul | Animation Claudio Como\nProduzent Bilderfest GmbH | Redaktion Birgit Keller-Reddemann\n© WDR 2021"
+    },
+    {
+      "frame_number": 95,
+      "timestamp": 94.0,
+      "text": "WDR\nAutorin Lena Paul | Animation Claudio Como\nProduzent Bilderfest GmbH | Redaktion Birgit Keller-Reddemann\n© WDR 2021"
+    },
+    {
+      "frame_number": 96,
+      "timestamp": 95.0,
+      "text": "WDR\nAutorin Lena Paul | Animation Claudio Como\nProduzent Bilderfest GmbH | Redaktion Birgit Keller-Reddemann\n© WDR 2021"
+    },
+    {
+      "frame_number": 97,
+      "timestamp": 96.0,
+      "text": "WDR\n2000\nAutorin Lena Paul | Animation Claudio Como\nProduzent Bilderfest GmbH | Redaktion Birgit Keller-Reddemann\n© WDR 2021"
+    },
+    {
+      "frame_number": 98,
+      "timestamp": 97.0,
+      "text": "WDR\n2000\nAutorin Lena Paul | Animation Claudio Como\nProduzent Bilderfest GmbH | Redaktion Birgit Keller-Reddemann\n© WDR 2021"
+    },
+    {
+      "frame_number": 99,
+      "timestamp": 98.0,
+      "text": "WDR\n2000\nAutorin Lena Paul | Animation Claudio Como\nProduzent Bilderfest GmbH | Redaktion Birgit Keller-Reddemann\n© WDR 2021"
+    },
+    {
+      "frame_number": 100,
+      "timestamp": 99.0,
+      "text": "WDR"
+    }
+  ],
+  "generated_at": "2026-06-27T09:46:48.357044+00:00"
+}
